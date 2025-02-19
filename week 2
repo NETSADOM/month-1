@@ -1,0 +1,4 @@
+x=list((input()))
+x=[int(i) for i in x]
+sum = sum(x)
+print(sum)
